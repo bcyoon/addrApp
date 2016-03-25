@@ -1,4 +1,4 @@
-package com.study.itwise.addrapp.com.study.itwise.addrapp.yoon;
+package com.study.itwise.addrapp.yoon;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

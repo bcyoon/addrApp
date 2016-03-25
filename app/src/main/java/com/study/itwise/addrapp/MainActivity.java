@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.study.itwise.addrapp.com.study.itwise.addrapp.yoon.YoonMainActivity;
+import com.study.itwise.addrapp.yoon.YoonMainActivity;
 
 public class MainActivity extends AppCompatActivity {
 
